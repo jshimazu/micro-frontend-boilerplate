@@ -1,4 +1,6 @@
-# my-starter-kit
+# micro-frontend-boilerplate
+
+PUG + SASS + ES6
 
 ## Usage
 

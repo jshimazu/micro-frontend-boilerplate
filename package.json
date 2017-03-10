@@ -4,18 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babelify": "^7.3.0",
     "browser-sync": "^2.14.0",
+    "browserify": "^14.1.0",
     "gulp": "^3.9.1",
     "gulp-pug": "^3.0.4",
-    "gulp-sass": "^2.3.2"
-  },
-  "scripts": {
-    "start": "gulp"
+    "gulp-sass": "^2.3.2",
+    "vinyl-source-stream": "^1.1.0"
   }
-
 }
